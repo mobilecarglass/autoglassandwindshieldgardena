@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+SITEMAP: http://site4849753.autoglassandwindshieldgardena.ga/sitemap.xml
